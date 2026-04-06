@@ -7,4 +7,5 @@
 - exit.py → ปิดออเดอร์
 - data.py → ดึงข้อมูล
 - bot_patched_safe.py → ตัวหลัก
-<img width="1919" height="1000" alt="image" src="https://github.com/user-attachments/assets/6ed36023-fe4f-4304-92ea-4826a069f6a0" />
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/d9098b4b-2cdb-41b5-8b18-dee644ee24c6" />
+
